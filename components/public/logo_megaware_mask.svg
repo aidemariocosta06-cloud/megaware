@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
+  <defs>
+    <clipPath id="c"><circle cx="28" cy="28" r="26" /></clipPath>
+    <filter id="f" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="8" flood-color="#0d2b66" flood-opacity="0.12" />
+    </filter>
+  </defs>
+  <rect width="56" height="56" fill="transparent" />
+  <g filter="url(#f)">
+    <image href="/logo_megaware.jpeg" x="0" y="0" width="56" height="56" preserveAspectRatio="xMidYMid slice" clip-path="url(#c)" />
+  </g>
+</svg>

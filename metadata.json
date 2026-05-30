@@ -1,0 +1,12 @@
+{
+  "name": "Mega Ware - Soluções Informáticas",
+  "description": "Website premium e moderno para a Mega Ware em Penacova, Portugal. Oferecendo assistência técnica, reparações, venda de acessórios e serviços digitais.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "E-commerce",
+    "Admin Dashboard",
+    "Service Listings"
+  ]
+}
