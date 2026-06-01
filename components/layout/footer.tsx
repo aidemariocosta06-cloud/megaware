@@ -50,11 +50,11 @@ export function Footer() {
             <ul className="space-y-2 text-xs text-blue-100/70">
               <li className="flex items-start gap-2">
                 <MapPin size={16} className="mt-0.5 shrink-0 text-brand-light" />
-                <span>Rua Principal, Penacova, Portugal</span>
+                <span>Av. Abel Rodrigues da Costa nº4, 3360-318 Coimbra</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone size={16} className="shrink-0 text-brand-light" />
-                <span>+351 239 000 000</span>
+                <span>+351 239 161 266</span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail size={16} className="shrink-0 text-brand-light" />
@@ -68,7 +68,7 @@ export function Footer() {
             <div className="rounded-xl bg-white/5 p-3 text-[11px] leading-relaxed text-blue-100/70 ring-1 ring-white/10">
               <p className="font-semibold text-white">Horário comercial</p>
               <p className="mt-1">Segunda a Sexta: 9:00–19:00</p>
-              <p>Sábado: 9:00–13:00</p>
+              <p>Sábado: 10:00–13:00</p>
             </div>
           </div>
         </div>
@@ -77,8 +77,8 @@ export function Footer() {
           <div className="flex flex-col gap-2 md:flex-row md:items-center md:justify-between">
             <p className="text-[10px] text-blue-100/55">© {new Date().getFullYear()} Mega Ware. Todos os direitos reservados.</p>
             <div className="flex flex-wrap items-center gap-3 text-[10px] text-blue-100/55">
-              <Link href="#" className="transition-colors hover:text-white">Privacidade</Link>
-              <Link href="#" className="transition-colors hover:text-white">Termos</Link>
+             <Link href="/privacidade" className="transition-colors hover:text-white">Privacidade</Link>
+             <Link href="/termos" className="transition-colors hover:text-white">Termos</Link>
             </div>
           </div>
         </div>

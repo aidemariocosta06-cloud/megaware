@@ -25,7 +25,7 @@ export function Contacts() {
                 </div>
                 <div>
                   <h4 className="font-bold text-brand-dark text-xl mb-1">Localização</h4>
-                  <p className="text-slate-500 leading-relaxed">Av. Principal, Edifício Central, Penacova, Portugal</p>
+                  <p className="text-slate-500 leading-relaxed">Av. Abel Rodrigues da Costa nº4, 3360-318 Coimbra</p>
                 </div>
               </div>
 
@@ -35,7 +35,7 @@ export function Contacts() {
                 </div>
                 <div>
                   <h4 className="font-bold text-brand-dark text-xl mb-1">Telefone</h4>
-                  <p className="text-slate-500 leading-relaxed">+351 239 000 000</p>
+                  <p className="text-slate-500 leading-relaxed">+351 239 161 266</p>
                   <p className="text-xs text-slate-400 mt-1">Geral / Emergências</p>
                 </div>
               </div>
